@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "luxuriant-beginner-launcher",
+    "displayName": "LuxuriantBeginnerLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "luxuriant-beginner-nerdlet"
+}
