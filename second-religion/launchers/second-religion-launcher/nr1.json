@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "second-religion-launcher",
+    "displayName": "SecondReligionLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "second-religion-nerdlet"
+}
